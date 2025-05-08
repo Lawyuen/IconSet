@@ -6,8 +6,8 @@ Welcome to the **IconSet** repository! This repository contains a collection of 
 
 ## Contents
 
-- **`FLAGPNG`**: A folder containing flag icons for various countries (e.g., USA, JPN, FRA).  
-- **`OTTPNG`**: A folder containing icons for OTT (Over-The-Top) services and applications (e.g., YouTube, Netflix, Disney).  
+- **`FLAGPNG`**: A folder Contains flag icons of various countries (such as the United States, Japan, and France).
+- **`OTTPNG`**: A folder Contains OTT and other icons (e.g. YouTube, Netflix, Disney+).
 - **`FlagSet.json`**: JSON file mapping flag icons.  
 - **`OTTSet.json`**: JSON file mapping OTT service icons.
 
