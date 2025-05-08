@@ -17,25 +17,14 @@ Welcome to the **IconSet** repository! This repository contains a collection of 
 
 ## Preview
 
-Below are examples of the icons:
 
-- **Flag Example**: [USA Flag](https://raw.githubusercontent.com/Lawyuen/IconSet/main/FLAGPNG/USA.png)
-- **OTT Example**: [YouTube Icon](https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/YouTube.png)
-
-## Contributing
-
-Feel free to contribute by adding new icons or improving the existing ones. Please follow these steps:
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Commit your changes (`git commit -m "Add new feature"`).
-- Push to the branch (`git push origin feature-branch`).
-- Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+| Folder      | Description              | Example Icon |
+|:-------------:|:--------------------------:|:--------------:|
+| FLAGPNG     | Country flag icons       | [USA](https://raw.githubusercontent.com/Lawyuen/IconSet/main/FLAGPNG/USA.png)      |
+| OTTPNG      | OTT and Others icons        | [YouTube](https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/YouTube.png) |
 ---
+
+
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/Lawyuen/IconSet.svg)
