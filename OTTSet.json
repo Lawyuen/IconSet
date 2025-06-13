@@ -2,6 +2,7 @@
   "name": "Lawyuen OTT",
   "description": "@Lawyuen",
   "icons": [
+    {"name": "Netflix25", "url": "https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/Netflix25.png"},
     {"name": "10play", "url": "https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/10play.png"},
     {"name": "17LIVE", "url": "https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/17LIVE.png"},
     {"name": "7plus", "url": "https://raw.githubusercontent.com/Lawyuen/IconSet/main/OTTPNG/7plus.png"},
